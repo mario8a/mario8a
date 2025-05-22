@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏽‍💻 I’m currently working as a Mobile & Web Developer at SPS.
+- 👨🏽‍💻 I’m currently working as a Software Developer.
 - 🌱 I’m currently exploring Cloud Technologies as AWS.
 - 📫 Email me at [mario8atov@gmail.com](mailto:mario8atov@gmail.com).
 
